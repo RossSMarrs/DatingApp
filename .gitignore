@@ -442,7 +442,7 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 Cloudinary.txt
-API/appsettings.json
+appsettings.json
 .gitignore
 
 donald.jpg
